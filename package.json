@@ -9,6 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fs": "0.0.1-security",
     "inquirer": "^6.3.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnLanni619/README-Generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/JohnLanni619/README-Generator/issues"
+  },
+  "homepage": "https://github.com/JohnLanni619/README-Generator#readme"
 }
